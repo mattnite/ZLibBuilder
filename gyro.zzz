@@ -1,5 +1,5 @@
-pkg:
+pkgs:
   ZLibBuilder:
     version: 1.2.11
 deps:
-  build-tools/download: ^1.0.1
+  mattnite/download: ^0.1.0
